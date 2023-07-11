@@ -1,7 +1,0 @@
-server:
-  port: 10
-
-test:
-  value: "Hello world!"
-
-
